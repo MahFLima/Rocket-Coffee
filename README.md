@@ -2,24 +2,9 @@
   <h1>RocketCoffee</h1>
 </div>
 
-#
-
-<p align="center" margin-top="25px" >
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mahflima/Rocket-Coffee?color=015F43">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Mahflima/Rocket-Coffee?color=00875F">
-  
-  <a href="https://github.com/Ricmaloy/NLW-6/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mahflima/Rocket-Coffee?color=00B37E">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Mahflima/Rocket-Coffee?color=81D8F7">
-</p>
-
-
 <div align="center"><img src="./src/assets/rocket-coffee.gif"></div>
 
-<div align="end"><h2>Desafio Discover <a href="https://app.rocketseat.com.br/">Rocketseat</a></h2>
+<div align="end"><h2>Desafio Discover <a href="https://app.rocketseat.com.br/">Rocketseat</a></h2></div>
 
 
 # 🧠 Sobre
