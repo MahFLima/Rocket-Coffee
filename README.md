@@ -2,7 +2,7 @@
   <h1>RocketCoffee</h1>
 </div>
 
-<div align="center"><img src="./src/assets/rocket-coffee.gif"></div>
+<div align="center"><img src="./src/assets/Rocket-Coffee.gif"></div>
 
 <div align="end"><h2>Desafio Discover <a href="https://app.rocketseat.com.br/">Rocketseat</a></h2></div>
 
