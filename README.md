@@ -2,14 +2,17 @@
   <h1>RocketCoffee</h1>
 </div>
 
-<div align="center"><img src="./src/assets/Rocket-Coffee.gif"/></div>
+<div align="center">
+  <img src="./src/assets/Rocket-Coffee.gif"/>
+  <p>Desafio Discover <a href="https://app.rocketseat.com.br/">Rocketseat</a></p>
+</div>
 
-<div align="end"><p>Desafio Discover <a href="https://app.rocketseat.com.br/">Rocketseat</a></p></div>
 
 
 # 🧠 Sobre
-
 Homepage para uma marca de café
+
+<br/>
 
 
 # 📚 Tecnologias utilizadas
